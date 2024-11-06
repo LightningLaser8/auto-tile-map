@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+}
+.control{
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+.control:hover{
+    color: cyan;
+    background-color: black;
+    border: 2px solid cyan;
+}
+.control.change{
+    border-color: red;
+}
